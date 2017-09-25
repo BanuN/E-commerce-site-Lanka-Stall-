@@ -1,0 +1,41 @@
+body{background-image:url("images/ttt.jpg"); background-repeat:repeat-y;background-position:center top; background-attachment:fixed; }
+header{width:100%; height:25%;background-color:black;}
+#logo{position:relative;right:-35ex;bottom:-1ex ;width:180px;height:120px;}
+#heading{color:#ccc632;position:absolute;left:450px;top:5px;font-size:25px;}
+#social{width:30px;height:30px; position:relative;right:-155ex;top:-7ex}
+.con{position:absolute; left:20%; top:21%; width:60%}
+#img{ width:790px;height:400px;position:relative; border:3px solid black;}
+#btn1{position:relative;font-size:18px;background-color:black; color:white;}
+#ico{width:150px;height:150px;}
+#ico:hover{width:160px;height:160px;}
+nav a{text-decoration:none ; color:white; font-size:20px;padding:4px; background-color:black;} 
+nav a:hover{background-color:#333030;font-weight:bold;}
+
+#categories	{font-size:30px; position:relative; right:-37ex; width:40%; text-align:center;}	
+#categories a{text-decoration:none;color:white;}	
+#categories a:hover{color:#ffffff; font-size:40px;}	
+#art {width:400px;height:400px;position:relative;top:-50ex;right:-12ex;}
+#itemtable{position:relative;right:-17ex;bottom:-2ex;background-color:white; width:550px;}
+td{padding:10px;width:216px;border:1px solid black;}
+#item{width:200px;height:200px;}
+h4{color:red;}
+h3{color:#ccc632;}
+#sort{position:fixed;left:40px;top:210px; color:white;}
+#lside{color:white; font-size:20px;}
+#sort a:link{text-decoration:none;}
+#aboutus{color:white; font-size:20px;position:fixed;left:650px;top:170px; width:30%; text-indent:50px;}
+#inq{position:absolute;left:150px;width:60%; top:70px; background-color:white;}
+#details{color:black; font-size:20px; background-color:white;}
+#logform{width:210px;color:white; position:absolute;left:830px;top:45px;}
+#user{color:white;position:absolute;left:1130px;top:10px;}
+#msg{color:red;position:relative;right:-113ex; bottom:-19ex;}
+#msgadmin{color:red;position:relative;right:-113ex; bottom:-73ex;}
+#logout{color:white; text-decoration:none; font-size:20; text-weight:bold;}
+#logout:hover{color:#ccc632;}
+#slink{text-decoration:none;color:white;font-size:16;}
+#slink:hover{ color:blue; }
+#buy{height:40px; width:100px;}
+
+.a{position:absolute;right:10px; width:800px; height:500px; top:70px; background-image:url("images/opt.jpg");}
+#popup{width:210px; height:210px;color:red;}
+.aa{position:absolute;right:10px; width:800px; height:500px; top:70px; background-color:white;}
